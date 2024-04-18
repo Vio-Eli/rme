@@ -1,0 +1,13 @@
+[package]
+name = "rme"
+version = "0.1.0"
+edition = "2021"
+authors = ["Eli Fischl <vio@ocf.berkeley.edu>","Patrick Unick <dev_storm@winux.com>"]
+license = "MIT"
+keywords = ["math", "cas", "symbolic", "algebra"]
+repository = "https://github.com/Vio-Eli/rme"
+description = "RMe, short for Rust Math Engine, is a high-performance computer algebra system (CAS) library written in Rust, designed for efficient symbolic manipulation and complex mathematical computations."
+
+[lib]
+
+[dependencies]
